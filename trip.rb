@@ -12,7 +12,7 @@ puts "Where do you want to eat?"
 eats = gets.chomp.capitalize
 
 puts "How many nights will you be staying?"
-nights = gets.chomp.capitalize
+nights = gets.chomp
 
 
 # Lastly, puts it all back by interpolating these values in a string.
