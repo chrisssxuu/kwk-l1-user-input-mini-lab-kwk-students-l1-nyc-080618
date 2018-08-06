@@ -1,5 +1,5 @@
 puts "What's your name?"
-name = gets.chomp
+name = gets.chomp.capitalize
 
 puts "What is your favorite food?"
 food = gets.chomp
